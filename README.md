@@ -24,7 +24,3 @@ Why send gigabytes of data when you can send **1000 times less data** and send m
 - [ ] Start a Call
 - [ ] Automatically Greyscaled
 - [ ] Asciifi
-
-## Other notes
-
-Asciifi has been tested with Chrome, Firefox, and Edge.
